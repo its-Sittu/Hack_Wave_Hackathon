@@ -224,7 +224,14 @@
     "Atorva",
     "notif",
     "Iggix",
-    "Nvqv"
+    "Nvqv",
+    "Gemini",
+    "Vercel",
+    "HackWave",
+    "hackwave",
+    "Pharmix",
+    "Parmix",
+    "parmix"
   ],
   "ignorePaths": [
     "**/node_modules/**",

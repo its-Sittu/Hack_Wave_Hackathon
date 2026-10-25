@@ -1,6 +1,6 @@
 # 🌐 Pharmx AI REST API Documentation
 
-**HackInMotion 2026 — Team RICR-HIM-1114**  
+**Hack Wave Hackathon 2026**  
 **Theme:** Healthcare &amp; HealthTech  
 **Project:** Pharmx AI — Smart Medicine Safety &amp; Drug Interaction Assistant  
 
