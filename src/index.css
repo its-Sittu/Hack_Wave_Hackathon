@@ -1,0 +1,53 @@
+/* ─── Google Fonts ──────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800;900&display=swap');
+
+/* ─── Reset & Global Cinematic Linear Gradient Theme System ─────────────── */
+:root {
+  --text: #cbd5e1;
+  --text-h: #ffffff;
+  --bg: linear-gradient(135deg, #0a0f1d 0%, #0f172a 35%, #1e1b4b 70%, #090d16 100%);
+  --border: rgba(255, 255, 255, 0.12);
+  --accent: #38bdf8;
+  --accent-soft: rgba(56, 189, 248, 0.12);
+  --accent-border: rgba(56, 189, 248, 0.25);
+  --card-bg: rgba(15, 23, 42, 0.82);
+  --sidebar-bg: rgba(15, 23, 42, 0.92);
+  --shadow-sm: 0 4px 12px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 12px 32px rgba(0, 0, 0, 0.45);
+  --shadow-lg: 0 25px 65px rgba(0, 0, 0, 0.65);
+  --radius-sm: 12px;
+  --radius-md: 18px;
+  --radius-lg: 28px;
+
+  font-family: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  font-size: 16px;
+  color: var(--text);
+  background: var(--bg);
+  background-attachment: fixed;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: linear-gradient(135deg, #0a0f1d 0%, #0f172a 35%, #1e1b4b 70%, #090d16 100%) !important;
+  background-attachment: fixed !important;
+  color: #f8fafc;
+}
+
+#root {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  text-align: left;
+  border: none;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+p { margin: 0; }
+h1, h2, h3, h4 { margin: 0; font-weight: 800; color: #ffffff; }
