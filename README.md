@@ -186,13 +186,6 @@ Hack_Wave_Hackathon/
 
 ---
 
-## 👥 Project Team
-
-| Team Member | Role | Key Contributions |
-| :--- | :--- | :--- |
-| **Sittu Kumar Singh** | Lead Full-Stack Architect | 3D Organ Canvas, Leaflet GPS Radar, Interaction Engine, UI/UX System |
-| **Srishti Kumari** | Frontend &amp; State Specialist | User Profile, Settings, Navigation, Responsive Layouts |
-| **Amit Kumar** | Backend &amp; API Developer | Express REST Endpoints, JWT Authentication, Fast2SMS Integration |
 
 ---
 
